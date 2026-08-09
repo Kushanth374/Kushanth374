@@ -38,25 +38,33 @@
 
 **Frontend**
 <br>
+<marquee behavior="scroll" direction="left" scrollamount="6">
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</marquee>
 
-<br><br>
+<br>
 
 **Backend**
 <br>
+<marquee behavior="scroll" direction="right" scrollamount="6">
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring" />
+</marquee>
 
-<br><br>
+<br>
 
 **Database & Cloud**
 <br>
+<marquee behavior="scroll" direction="left" scrollamount="6">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,gcp" />
+</marquee>
 
-<br><br>
+<br>
 
 **Tools & Platforms**
 <br>
+<marquee behavior="scroll" direction="right" scrollamount="6">
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,vscode" />
+</marquee>
 
 </div>
 
