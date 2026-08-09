@@ -65,11 +65,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kushanth374&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushanth374&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushanth374&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 </div>
 
