@@ -83,37 +83,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Kushanth374/Kushanth374/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> ⚙️ Needs the one-time GitHub Actions snake workflow — see setup notes at the bottom.
-
----
-
-## 📌 Pinned Projects
-
-<div align="center">
-<a href="https://github.com/Kushanth374/REPO_NAME_1">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Kushanth374&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-</a>
-<a href="https://github.com/Kushanth374/REPO_NAME_2">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Kushanth374&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-</a>
-</div>
-
-<div align="center">
-<a href="https://github.com/Kushanth374/REPO_NAME_3">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=Kushanth374&repo=REPO_NAME_3&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA"/>
-</a>
-</div>
-
-> ✏️ Replace `REPO_NAME_1`, `REPO_NAME_2`, `REPO_NAME_3` with your actual repo names.
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect
